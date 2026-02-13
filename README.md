@@ -10,6 +10,8 @@
 
 ## Overview
 
+<img width="994" height="874" alt="Image" src="https://github.com/user-attachments/assets/75d45440-dd0f-4486-9f4c-884f0eefa664" />
+
 Causal Effect Estimator is a comprehensive, production-ready application for estimating causal treatment effects from observational data. It bridges classical statistical estimation (MLE, IPTW) with modern machine learning approaches (Causal Forest, Metalearners, Doubly Robust), all wrapped in a clean, minimalist black-and-white interface.
 
 ## Start
