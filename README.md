@@ -1,9 +1,7 @@
 # Causal Effect Estimator with Machine Learning
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-000000.svg?style=for-the-badge)
 
 ---
